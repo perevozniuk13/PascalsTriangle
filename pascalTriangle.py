@@ -3,7 +3,7 @@ def pascalsTriangle(n):
     if n == 1:
         print(first)
         return "Done!"
-    second = [1, 2, 1]
+    second = [1, 1]
     if n == 2:
         print(first)
         print(second)
